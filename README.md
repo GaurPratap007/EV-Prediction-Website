@@ -1,7 +1,7 @@
 # EV-Prediction-Website
 The EV Prediction Website, designed to provide insights into the future of electric vehicle (EV) sales across Europe, India, and the rest of the world. 🌍⚡
 
-The credits for the ML Model and data used for prediction go to Rishav Mishra, check out his research paper for more detailed insights. 
+The credits for the ML Model and data used for prediction go to Rishav Mishra, check out his project for more detailed insights. 
 https://github.com/vegansquirrel/EV_sales_prediction
 
 Key Features:
